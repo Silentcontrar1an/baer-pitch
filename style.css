@@ -223,6 +223,14 @@ body {
 }
 
 /* ── SOURCE LINE ────────────────────────────────────── */
+.ps-h3 {
+  font-size: 13px; font-weight: 800;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--ps-black); margin: 28px 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--ps-border);
+}
+
 .ps-source {
   font-size: 10px; color: var(--ps-muted);
   line-height: 1.6; margin-top: 28px;
